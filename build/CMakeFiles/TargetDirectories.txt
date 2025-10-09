@@ -1,0 +1,4 @@
+/home/clz/linux/build/CMakeFiles/ProcessOn.dir
+/home/clz/linux/build/CMakeFiles/Fork.dir
+/home/clz/linux/build/CMakeFiles/edit_cache.dir
+/home/clz/linux/build/CMakeFiles/rebuild_cache.dir
