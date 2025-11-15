@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ProcessOn.dir/main.c.o CMakeFiles/ProcessOn.dir/process.c.o -o ProcessOn 

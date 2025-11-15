@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # file1:file1.c
 # 	gcc -o $@ $^ -std=c99
 # .PHONY: clean
