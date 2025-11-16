@@ -1,33 +1,7 @@
-file1.c
-fk.c
-log.txt
-Makefile
-mybin.c
-mychild.c
-mycpp.cc
-myexec.c
-myproc.c
-myshell
-myshell.c
-file1.c
-fk.c
-log.txt
-Makefile
-mybin.c
-mychild.c
-mycpp.cc
-myexec.c
-myproc.c
-myshell
-myshell.c
-file1.c
-fk.c
-log.txt
-Makefile
-mybin.c
-mychild.c
-mycpp.cc
-myexec.c
-myproc.c
-myshell
-myshell.c
+hello write
+hello printf
+hello fprintf
+hello fputs
+hello printf
+hello fprintf
+hello fputs

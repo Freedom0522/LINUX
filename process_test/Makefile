@@ -31,10 +31,16 @@
 # clean:
 # 	rm -f myexec mybin
 
-myshell:myshell.c
+# myshell:myshell.c
+# 	gcc -o $@ $^ -std=c99 
+# .PHONY: clean
+# clean:
+# 	rm -f myshell
+
+myfile:myfile.c
 	gcc -o $@ $^ -std=c99 
 .PHONY: clean
 clean:
-	rm -f myshell
+	rm -f myfile
 
 
